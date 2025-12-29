@@ -10,7 +10,7 @@ Each workshop folder may include:
 Lecture materials designed for academic or professional audiences, focusing on
 core concepts and recent advances.
 
-https://drive.google.com/file/d/1UncdXkue4LjFph0qLJAVP7x37CN1cUG_/view?usp=sharing 
+
 ---
 
 ### Talks

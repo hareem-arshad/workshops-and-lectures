@@ -1,31 +1,14 @@
-### Workshops
-Hands-on sessions with practical examples, notebooks, and supporting material.
-
-Each workshop folder may include:
-- Recording (external link, if available)
-
----
-
 ### Lectures
 Lecture materials designed for academic or professional audiences, focusing on
 core concepts and recent advances.
-
+- Applied NLP with LLMs - Lecture Series By Hareem https://youtu.be/P9-lrMwT7II
 
 ---
 
 ### Talks
 Slides and references from invited talks, seminars, and presentations.
-
-
-
----
-
-## Recordings
-Due to file size and access considerations, video recordings are hosted externally
-(e.g., Google Drive or unlisted video platforms).  
-Links are provided within the relevant workshop or lecture folders.
-
----
+ - International Coding Competitions - Talk By Hareem 
+ https://youtu.be/GvWQ7d2IJDA 
 
 ## Usage
 All materials are intended for **educational and non-commercial use** unless stated otherwise.
